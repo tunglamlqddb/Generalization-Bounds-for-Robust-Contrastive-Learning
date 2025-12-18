@@ -5,7 +5,7 @@
 - contrastive.py: SSL training
 - linear_correct_bn.py: Linear evaluation
 - contrastive_ckpt_d.py: training D from a given ckpt.
-- To run the code, please follow the commands in scripts/
+- To run the code, please follow the commands in scripts/run.sh
 
 
 
